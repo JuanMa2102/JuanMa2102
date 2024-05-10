@@ -8,4 +8,3 @@ Habilidades: Python • Laravel • Amazon Athena • Amazon S3
 - 🔭 Estoy trabajando en Cpa Vision 
 - 🌱 Estoy aprendiendo Astro y Azure Devops 
 - 📫 Cómo contactarme: manuelmartinea199802@gmail.com 
-- 😄 Pronombres: JuanMa 
