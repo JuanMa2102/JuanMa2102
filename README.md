@@ -3,8 +3,8 @@
 Desarrollador Mid | Full-Stack Developer
 
 
-Habilidades: Python • Laravel • Amazon Athena • Amazon S3
+Habilidades: Javascript • Html5 • Css • Python • Laravel • Amazon Athena • Amazon S3
 
 - 🔭 Estoy trabajando en Cpa Vision 
-- 🌱 Estoy aprendiendo Astro y Azure Devops 
-- 📫 Cómo contactarme: manuelmartinea199802@gmail.com 
+- 🌱 Estoy aprendiendo React
+- 📫 Cómo contactarme: manuelmartinea199802@gmail.com
