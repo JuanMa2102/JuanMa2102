@@ -1,10 +1,19 @@
-### Hola 👋, Soy JuanMa
-#### Soy Fullstack developer
-Desarrollador Mid | Full-Stack Developer
+### Hola 👋, soy JuanMa  
+👨‍💻 Full-Stack Developer | Desarrollador Mid  
 
+💻 **Lenguajes:**  
+JavaScript • PHP • Python • HTML • CSS  
 
-Habilidades: Javascript • Html5 • Css • Python • Laravel • Amazon Athena • Amazon S3
+⚙️ **Frameworks y librerías:**  
+React • Laravel • Django • Flask • Express  
 
-- 🔭 Estoy trabajando en Cpa Vision 
-- ⚛️ Estoy aprendiendo Next.js
-- 📫 Cómo contactarme: manuelmartinea199802@gmail.com
+🗄️ **Bases de datos:**  
+MySQL • PostgreSQL • SQL Server • Amazon Athena • MongoDB  
+
+🚀 Actualmente trabajando en **CPA Vision**  
+⚛️ Aprendiendo **Next.js**  
+📫 Contacto: **manuelmartinea199802@gmail.com**
+
+---
+
+Apasionado por crear soluciones completas, desde APIs robustas hasta interfaces modernas y funcionales.
