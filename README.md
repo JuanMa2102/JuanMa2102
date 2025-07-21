@@ -5,7 +5,7 @@
 JavaScript • PHP • Python • HTML • CSS  
 
 ⚙️ **Frameworks y librerías:**  
-React • Laravel • Django • Flask • Express • Astro  
+React • Laravel • Django • Flask • Express • Astro • Vue • Flutter
 
 🗄️ **Bases de datos:**  
 MySQL • PostgreSQL • SQL Server • Amazon Athena • MongoDB  
