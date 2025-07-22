@@ -1,4 +1,4 @@
-### Hola 👋, soy JuanMa  
+### Hola 👋, Soy JuanMa  
 👨‍💻 Full-Stack Developer | Desarrollador Mid  
 
 💻 **Lenguajes:**  
