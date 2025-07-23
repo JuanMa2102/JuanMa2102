@@ -1,14 +1,18 @@
 ### Hola 👋, Soy JuanMa  
 👨‍💻 Full-Stack Developer | Desarrollador Mid  
 
+---
+
 💻 **Lenguajes:**  
-JavaScript • PHP • Python • HTML • CSS  
+`JavaScript` • `PHP` • `Python` • `HTML` • `CSS`  
 
 ⚙️ **Frameworks y librerías:**  
-React • Laravel • Django • Flask • Express • Astro • Vue • Flutter
+`React` • `Laravel` • `Django` • `Flask` • `Express` • `Astro` • `Vue` • `Flutter`  
 
 🗄️ **Bases de datos:**  
-MySQL • PostgreSQL • SQL Server • Amazon Athena • MongoDB  
+`MySQL` • `PostgreSQL` • `SQL Server` • `Amazon Athena` • `MongoDB`  
+
+---
 
 🚀 Actualmente trabajando en **CPA Vision**  
 ⚛️ Aprendiendo **Next.js**  
@@ -16,4 +20,13 @@ MySQL • PostgreSQL • SQL Server • Amazon Athena • MongoDB
 
 ---
 
-Apasionado por crear soluciones completas, desde APIs robustas hasta interfaces modernas y funcionales.
+💬 **Apasionado por crear soluciones completas**, desde APIs robustas hasta interfaces modernas y funcionales.
+
+---
+
+### 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanma-dev/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:manuelmartinea199802@gmail.com)  
+
+---
+
