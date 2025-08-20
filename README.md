@@ -1,4 +1,4 @@
-### 👋 Hola, Soy Manuel Martinez  
+### 👋 Hola, Soy Manuel Martínez  
 👨‍💻 Full-Stack Developer | Desarrollador Mid  
 
 ---
