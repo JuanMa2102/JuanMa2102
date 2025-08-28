@@ -1,4 +1,4 @@
-### 👋 Hola, Soy Manuel Martínez  
+### 👋 Hola, Soy JuanMa  
 👨‍💻 Full-Stack Developer | Desarrollador Mid  
 
 ---
