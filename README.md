@@ -17,7 +17,7 @@
 ---
 
 🚀 Actualmente trabajando en **CPA Vision**  
-⚛️ Aprendiendo **Next.js**
+⚛️ Aprendiendo **Next.js** y **Aws**
 📫 Contacto: **manuelmartinez199802@gmail.com**
 
 ---
