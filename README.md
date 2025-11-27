@@ -1,5 +1,5 @@
 ### 👋 Hola, Soy JuanMa  
-👨‍💻 Full-Stack Developer | Desarrollador Jr-Mid  
+👨‍💻 Full-Stack Developer | Desarrollador Mid  
 
 ---
 
