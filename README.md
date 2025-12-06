@@ -17,7 +17,7 @@
 ---
 
 🚀 Actualmente trabajando en **CPA Vision**  
-⚛️ Aprendiendo **Next.js** | **FastApi** | **Typescript** 
+⚛️ Aprendiendo **Next.js** | **FastApi** | **Typescript**   
 📫 Contacto: **manuelmartinez199802@gmail.com**
 
 ---
