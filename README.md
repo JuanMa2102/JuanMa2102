@@ -1,6 +1,6 @@
 ### 👋 Hola, Soy JuanMa  
 👨‍💻 Full-Stack Developer | Desarrollador Mid  
-
+Especializado en Backend con Python y automatización de procesos a gran escala. Apasionado por las arquitecturas Serverless, el código limpio y la escalabilidad.
 ---
 
 ### 🧠 Habilidades Técnicas
